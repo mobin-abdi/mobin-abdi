@@ -17,13 +17,13 @@
 
 ---
 ### 💻 پروژه های من
-[تودو لیست](https://github.com/mobin-abdi/todo-list)
-[شبکه عصبی زنبق با tensorflow](https://github.com/mobin-abdi/iris-net-tensorflow)
-[شبکه عصبی زنبق با pytorch](https://github.com/mobin-abdi/iris-net-pytorch)
-[طبقه بندی اعداد دست نویس](https://github.com/mobin-abdi/handwritten-numbers-classification)
+- [تودو لیست](https://github.com/mobin-abdi/todo-list)
+- [شبکه عصبی زنبق با tensorflow](https://github.com/mobin-abdi/iris-net-tensorflow)
+- [شبکه عصبی زنبق با pytorch](https://github.com/mobin-abdi/iris-net-pytorch)
+- [طبقه بندی اعداد دست نویس](https://github.com/mobin-abdi/handwritten-numbers-classification)
 
 ---
 **همین حالا با من در ارتباط باش
 * [ایمیل](mobinabdi298@gmail.com)
 * [تلگرام](https://t.me/@ZanaHub)
- - [وبسایت زانا](zanahub.shop)
+* [وبسایت زانا](zanahub.shop)
