@@ -1,29 +1,33 @@
 ## درباره من (About Me)
 
-**مبین عبدی** | توسعه‌دهنده Flutter و Django | علاقه‌مند به هوش مصنوعی و یادگیری ماشین
+**مبین عبدی** — Flutter & Django Developer | علاقه‌مند به AI/ML
 
-من یک توسعه‌دهنده مشتاق به ساخت محصولات دیجیتال هستم که با استفاده از Flutter برای اپلیکیشن‌های موبایل و Django برای بک‌اند، راه‌حل‌های نوآورانه خلق می‌کنم. در حال حاضر، تمرکز اصلی من بر روی استارتاپم، زانا [Zana](zanahub.shop)، است. ما در زانا با بهره‌گیری از هوش مصنوعی، به مادران کمک می‌کنیم تا با انتخاب‌های هوشمندانه و سریع، چالش انتخاب وعده‌های غذایی را به تجربه‌ای لذت‌بخش تبدیل کنند. نام “زانا” به معنای “خردمند ” است، بر رویکرد ما در استفاده از دانش و فناوری برای تصمیم‌گیری‌های آگاهانه تأکید دارد.
+محصولات دیجیتال رو با **Flutter** برای موبایل و **Django** برای بک‌اند می سازم.
+هم‌زمان دارم **هوش مصنوعی و یادگیری ماشین** رو عمیق‌تر می‌خونم تا خروجی‌های واقعی‌تری بسازم.
 
-هم‌اکنون در حال یادگیری عمیق‌تر مباحث هوش مصنوعی و یادگیری ماشین هستم تا بتوانم قابلیت‌های زانا را گسترش دهم و از این تکنولوژی‌ها برای حل چالش‌های واقعی در زندگی روزمره بهره ببرم.
+### 🚀 استارتاپ
+در حال توسعه **Zana** هستم (zanahub.shop)؛ جایی که با کمک هوش مصنوعی، کمک می‌کنیم تصمیم‌گیری برای انتخاب وعده‌های غذایی سریع‌تر و هوشمندانه‌تر بشه.
+
+---
+
+### 💻 مهارت‌ها
+**Mobile:** Flutter, Jetpack Compose  
+**Backend:** Django  
+**ML/DL & Tools:** PyTorch, (scikit-learn / TensorFlow)  
+**Languages:** Python, Dart, Kotlin  
+**Version Control:** Git / GitHub
 
 ---
 
-### 💻 مهارت‌های من
-
-* **زبان‌های برنامه‌نویسی:** Python, Dart, Kotlin 
-* **فریم‌ورک‌ها و کتاب خوانه ها:** Flutter, Django, Jetpack Compose, PyTorch
-* **کنترل نسخه:** git/github
-* **زمینه‌های مورد علاقه:** برنامه‌نویسی موبایل، توسعه بک‌اند، استارتاپ‌ها، هوش مصنوعی
-
----
-### 💻 پروژه های من
+### 📌 پروژه‌ها
 - [تودو لیست](https://github.com/mobin-abdi/todo-list)
-- [شبکه عصبی زنبق با tensorflow](https://github.com/mobin-abdi/iris-net-tensorflow)
-- [شبکه عصبی زنبق با pytorch](https://github.com/mobin-abdi/iris-net-pytorch)
-- [طبقه بندی اعداد دست نویس](https://github.com/mobin-abdi/handwritten-numbers-classification)
+- [شبکه عصبی زنبق با TensorFlow](https://github.com/mobin-abdi/iris-net-tensorflow)
+- [شبکه عصبی زنبق با PyTorch](https://github.com/mobin-abdi/iris-net-pytorch)
+- [طبقه‌بندی اعداد دست‌نویس](https://github.com/mobin-abdi/handwritten-numbers-classification)
 
 ---
-**همین حالا با من در ارتباط باش**
-* [ایمیل](mobinabdi298@gmail.com)
-* [تلگرام](https://t.me/@ZanaHub)
-* [وبسایت زانا](zanahub.shop)
+
+### 📬 ارتباط
+- Email: mobinabdi298@gmail.com
+- Telegram: https://t.me/@ZanaHub
+- Website: https://zanahub.shop
