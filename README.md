@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- اینجا بنرت رو بگذار -->
-<img src="[URL_OF_YOUR_BANNER.jpg](https://mwallpaper.ir/wp-content/uploads/2021/10/%D8%B9%DA%A9%D8%B3-%D9%BE%D8%B3-%D8%B2%D9%85%DB%8C%D9%86%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C.jpg)" width="100%">
 
 # سلام، من مبین‌ام! 👋
 
@@ -22,6 +21,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 </div>
 
 ---
