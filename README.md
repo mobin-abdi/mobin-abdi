@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- اینجا بنرت رو بگذار -->
-<img src="URL_OF_YOUR_BANNER.jpg" width="100%">
+<img src="[URL_OF_YOUR_BANNER.jpg](https://mwallpaper.ir/wp-content/uploads/2021/10/%D8%B9%DA%A9%D8%B3-%D9%BE%D8%B3-%D8%B2%D9%85%DB%8C%D9%86%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C.jpg)" width="100%">
 
 # سلام، من مبین‌ام! 👋
 
 برنامه‌نویس Flutter و Django | در مسیر یادگیری دنیای هوش مصنوعی
 
 <a href="https://zanahub.shop">
-  <img src="URL_OF_YOUR_LOGO.png" width="80" align="right">
+  <img src="https://zanahub.shop/static/images/logo.png" width="80" align="right">
 </a>
 
 </div>
