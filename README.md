@@ -30,11 +30,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxbW1jM3locDc0c2Nudzh6bnZ5NHRxbmRjdW5xYmtudGI4cGxvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="300" />
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3UxZ2Q1eWZoeWlpaWJvN2x3YzZvNGRoY3Q0c2I4c3B4a3N4bG5uZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+<div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcmVjdWt5Y2h6anJkY3A5Y2JkNXZoaWZ5aHZ6Z2R0cHl5c3ZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-
-
+</div>
 ---
 
 ## 🚀 پروژه‌هایی که روشون غیرت دارم
