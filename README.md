@@ -8,10 +8,6 @@
 ### 🚀 استارتاپ
 در حال توسعه **Zana** هستم (zanahub.shop)؛ جایی که با کمک هوش مصنوعی، کمک می‌کنیم تصمیم‌گیری برای انتخاب وعده‌های غذایی سریع‌تر و هوشمندانه‌تر بشه.
 
-<a href="https://zanahub.shop">
-  <img src="https://zanahub.shop/static/images/logo.png" width="80" align="right">
-</a>
-
 </div>
 
 ---
@@ -37,6 +33,7 @@
 <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcmVjdWt5Y2h6anJkY3A5Y2JkNXZoaWZ5aHZ6Z2R0cHl5c3ZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </div>
+
 ---
 
 ## 🚀 پروژه‌هایی که روشون غیرت دارم
