@@ -1,33 +1,37 @@
-## درباره من (About Me)
+<div align="center">
 
-**مبین عبدی** — Flutter & Django Developer | علاقه‌مند به AI/ML
+<!-- اینجا بنرت رو بگذار -->
+<img src="URL_OF_YOUR_BANNER.jpg" width="100%">
 
-محصولات دیجیتال رو با **Flutter** برای موبایل و **Django** برای بک‌اند می سازم.
-هم‌زمان دارم **هوش مصنوعی و یادگیری ماشین** رو عمیق‌تر می‌خونم تا خروجی‌های واقعی‌تری بسازم.
+# سلام، من مبین‌ام! 👋
 
-### 🚀 استارتاپ
-در حال توسعه **Zana** هستم (zanahub.shop)؛ جایی که با کمک هوش مصنوعی، کمک می‌کنیم تصمیم‌گیری برای انتخاب وعده‌های غذایی سریع‌تر و هوشمندانه‌تر بشه.
+برنامه‌نویس Flutter و Django | در مسیر یادگیری دنیای هوش مصنوعی
 
----
+<a href="https://zanahub.shop">
+  <img src="URL_OF_YOUR_LOGO.png" width="80" align="right">
+</a>
 
-### 💻 مهارت‌ها
-**Mobile:** Flutter, Jetpack Compose  
-**Backend:** Django  
-**ML/DL & Tools:** PyTorch, (scikit-learn / TensorFlow)  
-**Languages:** Python, Dart, Kotlin  
-**Version Control:** Git / GitHub
+</div>
 
 ---
 
-### 📌 پروژه‌ها
-- [تودو لیست](https://github.com/mobin-abdi/todo-list)
-- [شبکه عصبی زنبق با TensorFlow](https://github.com/mobin-abdi/iris-net-tensorflow)
-- [شبکه عصبی زنبق با PyTorch](https://github.com/mobin-abdi/iris-net-pytorch)
-- [طبقه‌بندی اعداد دست‌نویس](https://github.com/mobin-abdi/handwritten-numbers-classification)
+## 🛠 ابزارهای من
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</div>
 
 ---
 
-### 📬 ارتباط
-- Email: mobinabdi298@gmail.com
-- Telegram: https://t.me/@ZanaHub
-- Website: https://zanahub.shop
+## 🚀 پروژه‌هایی که روشون غیرت دارم
+*   **[Iris Classification (TF)](https://github.com/mobin-abdi/iris-net-tensorflow)** — پیاده‌سازی مدل با تنسورفلو
+*   **[Iris Classification (PyTorch)](https://github.com/mobin-abdi/iris-net-pytorch)** — پیاده‌سازی مدل با پای‌تورچ
+*   **[Handwritten Numbers](https://github.com/mobin-abdi/handwritten-numbers-classification)** — پردازش تصویر ساده
+
+---
+
+## 📬 چطور پیدام کنی؟
+بزن بریم: [Telegram (@ZanaHub)](https://t.me/@ZanaHub) | [Website (ZanaHub)](https://zanahub.shop)
