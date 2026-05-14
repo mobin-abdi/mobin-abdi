@@ -1,4 +1,5 @@
-<div align="center">
+<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+<div align="center" style="font: Vazirmatn;">
 
 <!-- اینجا بنرت رو بگذار -->
 
