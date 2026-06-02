@@ -1,49 +1,98 @@
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
-<div align="center" style="font: Vazirmatn;">
 
-<!-- اینجا بنرت رو بگذار -->
+# درود، من مبین عبدی هستم 👋
 
-# درود من مبین عبدی هستم 👋🤞
-برنامه‌نویس Flutter و Django | در مسیر یادگیری دنیای هوش مصنوعی
+Flutter & Django Developer | Building AI-powered products
 
-### 🚀 استارتاپ
-در حال توسعه **Zana** هستم (zanahub.shop)؛ جایی که با کمک هوش مصنوعی، کمک می‌کنیم تصمیم‌گیری برای انتخاب وعده‌های غذایی سریع‌تر و هوشمندانه‌تر بشه.
-
-</div>
+🚀 Founder of ZanaHub
+🧠 Creator of ZanaFlow (Deep Learning Framework in C)
+🐧 Linux Enthusiast
+📚 Interested in Artificial Intelligence, Software Engineering, Literature and Music
 
 ---
 
-## 🛠 ابزارهای من
-<div align="center">
-  <img src="https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-02569B?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/C-EE4C2C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+## About Me
 
-  <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
+I'm a 17-year-old developer passionate about building useful products and learning how software, artificial intelligence and systems work under the hood.
 
-<div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2FwcmVjdWt5Y2h6anJkY3A5Y2JkNXZoaWZ5aHZ6Z2R0cHl5c3ZjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-</div>
+Currently, I'm focused on:
+
+* Building **Zana**, an AI-powered food recommendation platform
+* Developing **ZanaFlow**, an open-source deep learning framework written in C
+* Improving my skills in Flutter, Django and software engineering
+* Exploring machine learning and artificial intelligence
+
+Outside of programming, I enjoy music, literature and learning about technology and open-source communities.
 
 ---
 
-## 🚀 پروژه‌هایی که روشون غیرت دارم
-*   **[Iris Classification (TF)](https://github.com/mobin-abdi/iris-net-tensorflow)** — پیاده‌سازی مدل با تنسورفلو
-*   **[Iris Classification (PyTorch)](https://github.com/mobin-abdi/iris-net-pytorch)** — پیاده‌سازی مدل با پای‌تورچ
-*   **[Handwritten Numbers](https://github.com/mobin-abdi/handwritten-numbers-classification)** — پردازش تصویر ساده
+## 🚀 Featured Projects
+
+### Zana
+
+AI-powered food recommendation platform that helps users choose meals based on available ingredients and time.
+
+**Stack:** Flutter, Django, PostgreSQL
+
+### ZanaFlow
+
+Open-source deep learning framework written in C.
+
+Features include:
+
+* Dynamic computation graph
+* Automatic differentiation (Autograd)
+* Neural network building blocks
+* Educational and research-oriented architecture
+
+### Machine Learning Projects
+
+* Iris Classification (TensorFlow)
+* Iris Classification (PyTorch)
+* Handwritten Digits Classification
 
 ---
 
-## 📬 چطور پیدام کنی؟
-بزن بریم: [Telegram (@ZanaHub)](https://t.me/@ZanaHub) | [Website (ZanaHub)](https://zanahub.shop)
+## 🛠 Tech Stack
+
+### Mobile Development
+
+* Dart
+* Flutter
+* Kotlin
+
+### Backend Development
+
+* Python
+* Django
+* Django REST Framework
+* PostgreSQL
+
+### Artificial Intelligence
+
+* PyTorch
+* TensorFlow
+
+### Systems & Tools
+
+* C
+* Linux
+* Git
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Software Engineering
+* Machine Learning
+* Deep Learning
+* System Design
+
+---
+
+## 📫 Contact
+
+Telegram: @ZanaHub
+
+Website: https://zanahub.shop
+
+GitHub: https://github.com/mobin-abdi
