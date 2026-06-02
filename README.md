@@ -3,10 +3,10 @@
 
 Flutter & Django Developer | Building AI-powered products
 
-🚀 Founder of ZanaHub
-🧠 Creator of ZanaFlow (Deep Learning Framework in C)
-🐧 Linux Enthusiast
-📚 Interested in Artificial Intelligence, Software Engineering, Literature and Music
+- 🚀 Founder of ZanaHub
+- 🧠 Creator of ZanaFlow (Deep Learning Framework in C)
+- 🐧 Linux Enthusiast
+- 📚 Interested in Artificial Intelligence, Software Engineering, Literature and Music
 
 ---
 
