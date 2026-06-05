@@ -1,54 +1,64 @@
+# Hi, I'm Mobin Abdi 👋
 
-# درود، من مبین عبدی هستم 👋
+### Flutter & Django Developer • Open Source Builder • AI Enthusiast
 
-Flutter & Django Developer | Building AI-powered products
+Building AI-powered products, developer tools and creative ideas inspired by technology, literature and music.
 
-- 🚀 Founder of ZanaHub
-- 🧠 Creator of ZanaFlow (Deep Learning Framework in C)
-- 🐧 Linux Enthusiast
-- 📚 Interested in Artificial Intelligence, Software Engineering, Literature and Music
+<p>
+  <a href="https://github.com/mobin-abdi">
+    <img src="https://img.shields.io/badge/GitHub-mobin--abdi-181717?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://zanahub.shop">
+    <img src="https://img.shields.io/badge/Website-ZanaHub-04655e?style=for-the-badge">
+  </a>
+
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm a 17-year-old developer passionate about building useful products and learning how software, artificial intelligence and systems work under the hood.
+I'm a developer passionate about building useful software, understanding how systems work under the hood and exploring artificial intelligence.
 
 Currently, I'm focused on:
 
-* Building **Zana**, an AI-powered food recommendation platform
-* Developing **ZanaFlow**, an open-source deep learning framework written in C
-* Improving my skills in Flutter, Django and software engineering
-* Exploring machine learning and artificial intelligence
+- 🧠 Building **ZanaFlow**, a deep learning framework written in C
+- 🍽️ Developing **Zana**, an AI-powered food recommendation platform
+- 📱 Creating mobile applications with Flutter
+- ⚙️ Designing backend systems with Django and PostgreSQL
+- 🌱 Learning software architecture, machine learning and system design
 
-Outside of programming, I enjoy music, literature and learning about technology and open-source communities.
+Beyond technology, literature, music and art play an important role in my life. They shape the way I think, learn and create. I enjoy exploring both technical and creative worlds and finding connections between them.
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### Zana
+### 🧠 ZanaFlow
 
-AI-powered food recommendation platform that helps users choose meals based on available ingredients and time.
+An open-source deep learning framework written from scratch in C.
 
-**Stack:** Flutter, Django, PostgreSQL
+#### Features
 
-### ZanaFlow
+- Dynamic computation graph
+- Automatic differentiation (Autograd)
+- Neural network building blocks
+- Educational and research-oriented architecture
+- Lightweight and extensible design
 
-Open-source deep learning framework written in C.
+**Goal:** Understanding and building deep learning systems from first principles.
 
-Features include:
+---
 
-* Dynamic computation graph
-* Automatic differentiation (Autograd)
-* Neural network building blocks
-* Educational and research-oriented architecture
+### 🍽️ Zana
 
-### Machine Learning Projects
+AI-powered food recommendation platform that helps users choose meals based on available ingredients and cooking time.
 
-* Iris Classification (TensorFlow)
-* Iris Classification (PyTorch)
-* Handwritten Digits Classification
+**Stack:** Flutter • Django • PostgreSQL
 
 ---
 
@@ -56,43 +66,58 @@ Features include:
 
 ### Mobile Development
 
-* Dart
-* Flutter
-* Kotlin
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin" />
+</p>
 
 ### Backend Development
 
-* Python
-* Django
-* Django REST Framework
-* PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres" />
+</p>
 
 ### Artificial Intelligence
 
-* PyTorch
-* TensorFlow
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
 ### Systems & Tools
 
-* C
-* Linux
-* Git
+<p>
+  <img src="https://skillicons.dev/icons?i=c,linux,git,docker" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Current Focus
 
-* Advanced Software Engineering
-* Machine Learning
-* Deep Learning
-* System Design
+- Software Engineering
+- Mobile Development
+- Backend Architecture
+- Machine Learning
+- Open Source Development
 
 ---
 
-## 📫 Contact
+## 📚 Interests
 
-Telegram: @ZanaHub
+- Artificial Intelligence
+- Software Engineering
+- Open Source
+- Linux
+- Literature
+- Music
+- Art
 
-Website: https://zanahub.shop
+---
 
-GitHub: https://github.com/mobin-abdi
+## 📫 Connect
+
+- Telegram: @ZanaHub
+- Website: https://zanahub.shop
+- GitHub: https://github.com/mobin-abdi
+
+---
+
+> "Building useful things, learning continuously and sharing knowledge through open source."
