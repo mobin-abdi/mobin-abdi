@@ -18,8 +18,6 @@ Building AI-powered products, developer tools and creative ideas inspired by tec
   <img src="https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
----
-
 ## 🚀 About Me
 
 I'm a developer passionate about building useful software, understanding how systems work under the hood and exploring artificial intelligence.
@@ -33,8 +31,6 @@ Currently, I'm focused on:
 - 🌱 Learning software architecture, machine learning and system design
 
 Beyond technology, literature, music and art play an important role in my life. They shape the way I think, learn and create. I enjoy exploring both technical and creative worlds and finding connections between them.
-
----
 
 ## 🔥 Featured Projects
 
@@ -52,15 +48,11 @@ An open-source deep learning framework written from scratch in C.
 
 **Goal:** Understanding and building deep learning systems from first principles.
 
----
-
 ### 🍽️ Zana
 
 AI-powered food recommendation platform that helps users choose meals based on available ingredients and cooking time.
 
 **Stack:** Flutter • Django • PostgreSQL
-
----
 
 ## 🛠 Tech Stack
 
@@ -88,8 +80,6 @@ AI-powered food recommendation platform that helps users choose meals based on a
   <img src="https://skillicons.dev/icons?i=c,linux,git,docker" />
 </p>
 
----
-
 ## 🎯 Current Focus
 
 - Software Engineering
@@ -97,8 +87,6 @@ AI-powered food recommendation platform that helps users choose meals based on a
 - Backend Architecture
 - Machine Learning
 - Open Source Development
-
----
 
 ## 📚 Interests
 
@@ -109,8 +97,6 @@ AI-powered food recommendation platform that helps users choose meals based on a
 - Literature
 - Music
 - Art
-
----
 
 ## 📫 Connect
 
