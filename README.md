@@ -4,20 +4,16 @@ AI Product Builder • Flutter & Django Developer
 
 Building practical AI-powered applications combining mobile, backend and machine learning.
 
----
-
 ## 🚀 Projects
 
 ### 🧠 ZanaFlow
 Experimental deep learning framework written in C  
 Autograd • Dynamic computation graph • Educational architecture  
 
-### 🍽️ Mehrbano (Zana)
+### 🍽️ Mehrbanoo (Zana)
 AI-powered recipe recommendation app  
 Flutter • Django REST • JWT • LLM APIs  
 20+ API endpoints • Prompt optimization • Early user testing
-
----
 
 ## 🛠 Tech Stack
 
@@ -32,8 +28,6 @@ AI
 
 Systems  
 ![Systems](https://skillicons.dev/icons?i=c,linux,git)
-
----
 
 ## 🎯 Focus
 
