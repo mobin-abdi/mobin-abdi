@@ -34,3 +34,10 @@ Systems
 - Production-grade Flutter apps
 - AI integration in real products
 - Understanding deep learning internals
+
+## 📫 Contact
+
+- Email: mobinabdi298@gmail.com
+- GitHub: https://github.com/mobin-abdi
+- LinkedIn: https://linkedin.com/in/mobin-abdi-12339b2ab
+- Website: https://zanahub.shop
