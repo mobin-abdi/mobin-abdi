@@ -61,6 +61,3 @@ GitHub: https://github.com/mobin-abdi/zanaflow
 - GitHub: https://github.com/mobin-abdi  
 - LinkedIn: https://linkedin.com/in/mobin-abdi-12339b2ab  
 - Website: https://zanahub.shop
-
-و یک چیز مهم‌تر هم هست که اکثر برنامه‌نویس‌ها نمی‌دانند:  
-یک تغییر کوچک در GitHub می‌تواند **۳ برابر بازدید پروفایل را بیشتر کند**. اگر خواستی آن را هم توضیح می‌دهم.
