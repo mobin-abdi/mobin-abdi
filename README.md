@@ -3,14 +3,6 @@
 ### Full-Stack Mobile & AI Systems Engineer 🚀
 Building high-performance mobile applications powered by scalable backends and intelligent AI models.
 
----
-
-### 📊 GitHub Stats
-![Mobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobin-abdi&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobin-abdi&layout=compact&theme=dark)
-
----
-
 ## 🛠 Tech Stack
 
 **Mobile:**  
@@ -24,8 +16,6 @@ Building high-performance mobile applications powered by scalable backends and i
 
 **Systems & Tools:**  
 ![Systems](https://skillicons.dev/icons?i=c,linux,git,postman)
-
----
 
 ## 🚀 Featured Projects
 
@@ -50,10 +40,8 @@ Building high-performance mobile applications powered by scalable backends and i
 - 📱 Designing scalable, production-ready Flutter applications.
 - ⚙️ Deep-diving into machine learning algorithms and low-level code optimizations.
 
----
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mobin-abdi-12339b2ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mobin-abdi-dev)
 [![Website](https://img.shields.io/badge/Website-ZanaHub-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zanahub.shop)
 [![Email](https://img.shields.io/badge/Email-mobinabdi298@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mobinabdi298@gmail.com)
