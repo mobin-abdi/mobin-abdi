@@ -12,7 +12,7 @@ Building high-performance mobile applications powered by scalable backends and i
 ![Backend](https://skillicons.dev/icons?i=python,django,postgres)
 
 **AI & Deep Learning:**  
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)
 
 **Systems & Tools:**  
 ![Systems](https://skillicons.dev/icons?i=c,linux,git,postman)
