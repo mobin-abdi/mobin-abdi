@@ -15,7 +15,7 @@ Building high-performance mobile applications powered by scalable backends and i
 ![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)
 
 **Systems & Tools:**  
-![Systems](https://skillicons.dev/icons?i=c,linux,git,postman)
+![Systems](https://skillicons.dev/icons?i=c,linux,git,postman,rust)
 
 ## 🚀 Featured Projects
 
